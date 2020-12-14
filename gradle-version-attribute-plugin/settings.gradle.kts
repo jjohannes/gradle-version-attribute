@@ -1,0 +1,1 @@
+rootProject.name = "gradle-target-version-attribute-support"
