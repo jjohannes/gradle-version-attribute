@@ -5,6 +5,4 @@ pluginManagement {
     }
 }
 
-includeBuild("../gradle-version-attribute-plugin")
-
 include("lib")

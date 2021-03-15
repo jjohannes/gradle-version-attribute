@@ -7,6 +7,6 @@ abstract public class GreetTask extends DefaultTask {
 
     @TaskAction
     public void greet() {
-        System.out.println("Hello from Gradle <6.5");
+        System.out.println("Hello from Gradle 6");
     }
 }
